@@ -56,6 +56,7 @@ pip install pandas matplotlib seaborn
 
 📁 Project Structure
 Brainwave_Matrix_Intern/
+
 ├── superstore.csv                    # Dataset
 
 ├── Superstore_Sales_Analysis.ipynb  # Main notebook
